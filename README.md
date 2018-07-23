@@ -6,6 +6,11 @@ F&amp;C (FAC14) podcast planning etc!
 ### Tasks to do
 * site setup (and subdomain register)
 * soundcloud pro setup [info 1 - step by step guide](https://creatorguide.soundcloud.com/podcasting), [info2](https://soundcloud.com/for/podcasting)
+
+### Done
+[x] Soundcloud URL: https://soundcloud.com/founders-coders 
+
+
 ### EPISODE ONE to do
 * Add intro mentioning purpose of podcast, "apologising" for audio etc; 
 * mention of London/Nazareth/Gaza; 
