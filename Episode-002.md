@@ -2,13 +2,21 @@
 
 ## Checklist:
 [ ] Content roughly decided
+
 [ ] Day/time/place decided
+
 [ ] Signups
+
 [ ] Recorded
+
 [ ] Edited & "mastered"
+
 [ ] Show notes created
+
 [ ] Episode named
+
 [ ] Published
+
 
 ## Notes to self:
 * Is it worth merging this with episode 4 chat? Fresher in our memories, more to talk about..?
