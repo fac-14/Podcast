@@ -1,15 +1,15 @@
 # Episode 002 - [Title Goes Here]
 
 ## Checklist:
-[ ] Content roughly decided
+[X] Content roughly decided
 
-[ ] Day/time/place decided
+[X] Day/time/place decided
 
-[ ] Signups
+[X] Signups
 
-[ ] Recorded
+[X] Recorded
 
-[ ] Edited & "mastered"
+[ In Prog ] Edited & "mastered"
 
 [ ] Show notes created
 
