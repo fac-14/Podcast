@@ -9,13 +9,15 @@
 
 [X] Recorded
 
-[ In Prog ] Edited & "mastered"
+[X] Edited & "mastered"
 
-[ ] Show notes created
+[X] Show notes created
 
-[ ] Episode named
+[X] Episode named
 
-[ ] Published
+[X] Published
+
+[Link to episode on SoundCloud](https://soundcloud.com/founders-coders/podcast-ep-2-radioactivity-russia-apis-gifs-and-json)
 
 
 ## Notes to self:
