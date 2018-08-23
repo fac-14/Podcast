@@ -20,6 +20,7 @@
 
 
 ## Content to cover:
+* Today we'll be talking about...
 * Backgrounds of new guests
   * Intro (including fact from the name game?)
   * What they did in their previous lives
