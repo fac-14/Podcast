@@ -1,4 +1,4 @@
-# Episode 002 - [Title Goes Here]
+# Episode 003 - [Title Goes Here]
 
 ## Checklist:
 - [ ] Content roughly decided
